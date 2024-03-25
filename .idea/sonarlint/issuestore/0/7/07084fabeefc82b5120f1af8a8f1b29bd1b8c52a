@@ -1,0 +1,13 @@
+
+t	java:S127:"XRefactor the code in order to not assign to this loop counter from within the loop body.(òêö²8ÇÄ¯‹ç1
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "matrix".(ïì’Ü8ÈÄ¯‹ç1
+7
+java:S1220""Move this file to a named package.8ÈÄ¯‹ç1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ØìŠüÿÿÿÿ8ğ€²¢ç1
+8
+java:S3626"Remove this redundant jump.(«’¢”8¡È¯‹ç1
+o
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(—¤’ã8¨È¯‹ç1
+o	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( şÆëùÿÿÿÿ8«È¯‹ç1
